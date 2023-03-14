@@ -1,0 +1,7 @@
+@article{REPO-324,
+    author = "Zhang, Huan and Jiang, Liangxiao and Zhang, Wenjun and Li, Chaoqun",
+    journal = "IEEE Transactions on Knowledge and Data Engineering",
+    publisher = "IEEE",
+    title = "{Multi-view Attribute Weighted Naive Bayes}",
+    year = "2022"
+}
